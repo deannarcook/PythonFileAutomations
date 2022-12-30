@@ -1,4 +1,4 @@
-# need to update code to output line number of special characters found in file
+# potential enhancement: update code to output line number of special characters found in file
 
 sourceFilePath = ''
 sourceFileName = ''
